@@ -42,7 +42,7 @@ a:hover {
     background: url(img/headerJpg.jpg) no-repeat center/cover;
     margin: 0 auto;
     height: 100vh;
-    width: 100%;
+    width: 100vw;
     display: table;
     text-align: center;
 }
@@ -57,7 +57,7 @@ a:hover {
     background: hsla(100,0%,0%,.5);
 }
 .headerContent h1 {
-    font-size: 5.5rem;
+    font-size: 3.15rem;
     color: #d2ba87;
     margin-bottom: 0;
 }
